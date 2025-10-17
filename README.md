@@ -36,10 +36,5 @@ I'm a Computer Science major with a Physics minor at Skidmore College, passionat
 - Engineered 60-day rolling sequence features for improved stability
 
 
-## 📫 Let's Connect
-
-- **Email:** nourbchini@skidmore.edu
-- **Location:** Saratoga Springs, NY
-- **Graduation:** May 2027
 
 
