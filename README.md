@@ -1,9 +1,45 @@
-<h1 align="center">Hi 👋, I'm Nour Bchini</h1>
-<h3 align="center">A Computer science and Physics Student, an Undergraduate researcher, and aspiring Machine Learning Engineer</h3>
+# 👋 Hi, I'm Nour Bchini
+
+**Computer Science Student | AI/ML Enthusiast | Full-Stack Developer**
+
+I'm a Computer Science major with a Physics minor at Skidmore College, passionate about artificial intelligence, machine learning, and building impactful technology solutions.
+
+## 🚀 What I Do
+
+- **AI & Machine Learning**: Building reinforcement learning models and computer vision systems
+- **Full-Stack Development**: Creating responsive web applications and optimizing user experiences
+- **Data Science**: Developing predictive models and analyzing complex datasets
+- **Research**: Conducting interdisciplinary research on AI ethics and robotic decision-making
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, C, JavaScript, HTML, CSS
+
+**ML/AI:** TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
+
+**Web Development:** Node.js, Jupyter Notebooks
+
+**Tools:** Git, Statistical Analysis, Real-time Data Processing
+
+## 🎯 Recent Projects
+
+### 🤖 AI-Powered Robotics Research
+- I am currently working on developing reinforcement learning and Vision-Language-Action modules to train a robotic dog.
+
+### ⚽ Premier League Match Prediction System
+- Built end-to-end ML pipeline on 10,000+ matches 
+- Automated preprocessing reducing manual data handling 
+- Designed modular architecture for real-time match forecasting
+
+### 📈 Financial Data Prediction with RNNs
+- Developed LSTM models for next-day stock prediction (SPY, TLT, GLD, DXY)
+- Engineered 60-day rolling sequence features for improved stability
 
 
-<p align="left">
-</p>
+## 📫 Let's Connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Email:** nourbchini@skidmore.edu
+- **Location:** Saratoga Springs, NY
+- **Graduation:** May 2027
+
+
