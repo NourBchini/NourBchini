@@ -7,7 +7,7 @@
 *B.S. Computer Science @ Skidmore College '27 · Semester Abroad @ Polytech Montpellier . @UWC Alumna*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour_Bchini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-bchini27/)
-[![Email](https://img.shields.io/badge/Email-nourbchini@skidmore.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourbchini@skidmore.edu)
+
 
 </div>
 
