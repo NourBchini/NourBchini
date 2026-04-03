@@ -98,8 +98,3 @@ End-to-end ML pipeline trained on 10,000+ historical matches, achieving **80% pr
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NourBchini&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
