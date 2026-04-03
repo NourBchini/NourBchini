@@ -51,7 +51,7 @@ Previously, my undergraduate ML research at Skidmore focused on financial time-s
 ---
 
 
-## 🚀 Featured Projects
+## Projects
 
 ### [Multi-Agent Research Assistant](https://github.com/NourBchini/Research_Asisstant)
 > Python · AutoGen · Groq · Tavily · Chroma · SentenceTransformers
@@ -67,11 +67,6 @@ LSTM-based forecasting models for SPY, TLT, GLD, and DXY using 60-day rolling se
 > Python · Jupyter Notebook
 
 CNN-based digit recognition pipeline covering data preprocessing, model architecture, training, and evaluation on standard benchmark datasets.
-
-### [Premier League Match Prediction](https://github.com/NourBchini/Research-Stock-Market-Prediction-)
-> Python · Scikit-learn · Pandas
-
-End-to-end ML pipeline trained on 10,000+ historical matches, achieving **80% prediction accuracy**. Features include rolling form, team performance metrics, and betting market signals. Neural network with dropout regularization.
 
 ---
 
