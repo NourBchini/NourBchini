@@ -58,12 +58,12 @@ Previously, my undergraduate ML research at Skidmore focused on financial time-s
 
 Autonomous multi-agent pipeline (Scout → Reader → Writer → Critic) that researches any topic end-to-end. A Critic agent gates completion on an `APPROVED` verdict, enforcing iterative revision. Includes semantic indexing via Chroma for retrieval-grounded Q&A over generated research briefs.
 
-### [Stock Market Prediction — CNN-LSTM & RNN](https://github.com/NourBchini/Research-Stock-Market-Prediction-)
+### [Stock Market Prediction — CNN-LSTM & RNN](https://github.com/NourBchini/ResearchProject-Stock-Market-Prediction)
 > Python · PyTorch · TensorFlow
 
 LSTM-based forecasting models for SPY, TLT, GLD, and DXY using 60-day rolling sequences and cross-asset correlations. Parallel fusion CNN–LSTM achieved ~5.8× lower MAE than baseline. See also: [lstm-stock-prediction](https://github.com/NourBchini/lstm-stock-prediction).
 
-### [Handwritten Digit Recognition](https://github.com/NourBchini/Handwritten-Digit-Recognition)
+### [Handwritten Digit Recognition](https://github.com/NourBchini/Handwritten-Digit-Recognition-System)
 > Python · Jupyter Notebook
 
 CNN-based digit recognition pipeline covering data preprocessing, model architecture, training, and evaluation on standard benchmark datasets.
