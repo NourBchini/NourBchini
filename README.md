@@ -19,7 +19,7 @@ I'm a Computer Science student (+ Physics minor) with a full scholarship at Skid
 
 I'm currently an **AI Software Engineer Intern at QS Quacquarelli Symonds**, where I design Claude-powered extraction pipelines that transform unstructured documents into structured data for international admissions workflows.
 
-Previously, my undergraduate ML research at Skidmore focused on financial time-series forecasting — comparing LSTM, BiLSTM, and CNN–LSTM architectures, where a parallel fusion model achieved **~5.8× lower MAE** than baseline on out-of-sample test windows.
+My undergraduate ML research at Skidmore compared LSTM, BiLSTM, and CNN–LSTM architectures for SPY price forecasting. The preliminary parallel-fusion CNN–LSTM emerged as the strongest deep model, significantly outperforming the standalone LSTM and the sequential CNN–LSTM (Diebold–Mariano p < 0.001). However, after correcting a test-set peeking bug and re-running a 5-seed benchmark with formal Diebold–Mariano / Wilcoxon tests, I showed that no deep model, including parallel fusion, beats a simple persistence baseline on a 1,622-day horizon, a finding tied to a 2016–2018 structural break in market dynamics (Chow test, p = 0.012).
 
 ---
 
@@ -32,7 +32,7 @@ Previously, my undergraduate ML research at Skidmore focused on financial time-s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white)
+
 
 **AI / ML**
 
