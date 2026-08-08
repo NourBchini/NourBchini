@@ -8,18 +8,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour_Bchini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-bchini27/)
 
-
 </div>
 
 ---
 
 ## About
 
-I'm a Computer Science student (+ Physics minor) with a full scholarship at Skidmore College, currently on semester abroad at Polytech (the Engineering School of the University of Montpellier) . I build at the intersection of **AI systems, machine learning research, software engineering**.
+I'm a Computer Science student with a full scholarship at Skidmore College, currently on semester abroad at Polytech (the Engineering School of the University of Montpellier). I build at the intersection of **AI systems, machine learning research, and software engineering**.
 
-I'm currently an **AI Software Engineer Intern at QS Quacquarelli Symonds**, where I design Claude-powered extraction pipelines that transform unstructured documents into structured data for international admissions workflows.
+Most recently, I was an **AI Software Engineer Intern at QS Quacquarelli Symonds**, where I designed Claude-powered extraction pipelines that transform unstructured documents into structured data for international admissions workflows, and a **Software Engineer Intern at BIAT Innovation & Technology**, where I built a payments analytics dashboard and fraud-flagging logic for a 24-region banking network.
 
-My undergraduate ML research at Skidmore compared LSTM, BiLSTM, and CNN–LSTM architectures for SPY price forecasting. The preliminary parallel-fusion CNN–LSTM emerged as the strongest deep model, significantly outperforming the standalone LSTM and the sequential CNN–LSTM (Diebold–Mariano p < 0.001). However, after correcting a test-set peeking bug and re-running a 5-seed benchmark with formal Diebold–Mariano / Wilcoxon tests, I showed that no deep model, including parallel fusion, beats a simple persistence baseline on a 1,622-day horizon, a finding tied to a 2016–2018 structural break in market dynamics (Chow test, p = 0.012).
+My undergraduate ML research at Skidmore compared LSTM, BiLSTM, and CNN–LSTM architectures for SPY price forecasting. The preliminary parallel-fusion CNN–LSTM emerged as the strongest deep model, significantly outperforming the standalone LSTM and the sequential CNN–LSTM (Diebold–Mariano p < 0.001). However, after correcting a test-set peeking bug and re-running a 5-seed benchmark with formal Diebold–Mariano / Wilcoxon tests, I showed that no deep model, including parallel fusion, beats a simple persistence baseline on a 1,622-day horizon — a finding tied to a 2016–2018 structural break in market dynamics (Chow test, p = 0.012).
 
 ---
 
@@ -32,7 +31,6 @@ My undergraduate ML research at Skidmore compared LSTM, BiLSTM, and CNN–LSTM a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
 
 **AI / ML**
 
@@ -48,8 +46,11 @@ My undergraduate ML research at Skidmore compared LSTM, BiLSTM, and CNN–LSTM a
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
----
+**Algorithms**
 
+Completed the NeetCode 150 (Python) — arrays/strings, trees, graphs, DP, backtracking, heaps
+
+---
 
 ## Projects
 
@@ -74,7 +75,8 @@ CNN-based digit recognition pipeline covering data preprocessing, model architec
 
 | Role | Organization | Period |
 |---|---|---|
-| AI Software Engineer Intern | QS Quacquarelli Symonds | Mar 2026 – Present |
+| Software Engineer Intern | BIAT Innovation & Technology | Jul – Aug 2026 |
+| AI Software Engineer Intern | QS Quacquarelli Symonds | Mar – Jul 2026 |
 | Undergraduate ML Researcher | Skidmore College | Sep 2025 – Jan 2026 |
 | Full-Stack Developer & Tech Educator | MentorNations / TechDevs | 2019, 2025 |
 
@@ -88,8 +90,6 @@ CNN-based digit recognition pipeline covering data preprocessing, model architec
 
 ---
 
-
-**Languages:**  English (fluent) ·Arabic (native). French (fluent) · Italian (conversational)
+**Languages:** English (fluent) · Arabic (native) · French (fluent) · Italian (conversational)
 
 ---
-
