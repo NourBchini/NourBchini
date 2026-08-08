@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a Computer Science student with a full scholarship at Skidmore College, currently on semester abroad at Polytech (the Engineering School of the University of Montpellier). I build at the intersection of **AI systems, machine learning research, and software engineering**.
+I'm a Computer Science student with a full scholarship at Skidmore College. In Spring 2026, I studied abroad at Polytech (the Engineering School of the University of Montpellier). I build at the intersection of **AI systems, machine learning research, and software engineering**.
 
 Most recently, I was an **AI Software Engineer Intern at QS Quacquarelli Symonds**, where I designed Claude-powered extraction pipelines that transform unstructured documents into structured data for international admissions workflows, and a **Software Engineer Intern at BIAT Innovation & Technology**, where I built a payments analytics dashboard and fraud-flagging logic for a 24-region banking network.
 
@@ -93,3 +93,4 @@ CNN-based digit recognition pipeline covering data preprocessing, model architec
 **Languages:** English (fluent) · Arabic (native) · French (fluent) · Italian (conversational)
 
 ---
+
