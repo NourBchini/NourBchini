@@ -71,6 +71,11 @@ CNN-based digit recognition pipeline covering data preprocessing, model architec
 
 ---
 
+### Work in progress...
+## [lata] [https://github.com/NourBchini/Latta_Pygame]
+> Practicing OOP and game development using Python and Pygame. 
+---
+
 ## 📌 Experience
 
 | Role | Organization | Period |
