@@ -73,7 +73,7 @@ CNN-based digit recognition pipeline covering data preprocessing, model architec
 
 ## Work in progress...
 
-### [lata](https://github.com/NourBchini/Latta_Pygame)
+### [Lata](https://github.com/NourBchini/Latta_Pygame)
 
 > Practicing OOP and game development using Python and Pygame. 
 ---
@@ -92,6 +92,7 @@ CNN-based digit recognition pipeline covering data preprocessing, model architec
 ## 🏅 Honors & Scholarships
 
 - **Davis Shelby Scholar & Dare to Dream Scholar** - Full scholarship, Skidmore College
+- **Skidmore Dean's List Honors 26'**
 - **YES Program Scholar** - Sole recipient from province; one of ~80 nationally representing Tunisia in the U.S.
 - **United World College of the Adriatic** - Full scholarship; ~200 students selected from 150+ countries globally
 
