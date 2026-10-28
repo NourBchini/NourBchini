@@ -85,7 +85,8 @@ CNN-based digit recognition pipeline covering data preprocessing, model architec
 | Software Engineer Intern | BIAT Innovation & Technology | Jul – Aug 2026 |
 | AI Software Engineer Intern | QS Quacquarelli Symonds | Mar – Jul 2026 |
 | Undergraduate ML Researcher | Skidmore College | Sep 2025 – now |
-| Full-Stack Developer & Tech Educator | MentorNations / TechDevs | 2019, 2025 |
+| Full-Stack Developer & Tech Educator | MentorNations|  2025 |
+| Tech Educator | TechDevs | 2019, 2021 |
 
 ---
 
