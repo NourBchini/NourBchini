@@ -2,7 +2,7 @@
 
 # Nour Bchini
 
-**Software engineer Engineer · ML Researcher ·**
+**Software Engineer · ML Researcher ·**
 
 *B.S. Computer Science @ Skidmore College '27 · Semester Abroad @ Polytech Montpellier . @UWC Alumna*
 
