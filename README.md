@@ -94,7 +94,7 @@ CNN-based digit recognition pipeline covering data preprocessing, model architec
 
 - **Davis Shelby Scholar & Dare to Dream Scholar** - Full scholarship, Skidmore College
 - **Skidmore Dean's List Honors 26'**
-- **YES Program Scholar** - Sole recipient from province; one of ~80 nationally representing Tunisia in the U.S.
+- **kennedy lugar youth exchange and study program Scholar** - Sole recipient from province; one of ~80 nationally.
 - **United World College of the Adriatic** - Full scholarship; ~200 students selected from 150+ countries globally
 
 ---
